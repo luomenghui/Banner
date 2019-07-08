@@ -1,0 +1,6 @@
+target 'BannerDemo' do
+    use_frameworks!
+        
+        pod 'SDWebImage', '5.0.6'
+
+end
